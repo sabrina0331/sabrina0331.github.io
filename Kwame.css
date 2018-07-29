@@ -1,0 +1,26 @@
+* {
+    background-image: url("space.jpg");
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+    h1{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    }
+a{
+    font-size: 40px;
+    text-decoration:none;
+    color: rgb(16, 49, 139);
+}
+img{
+    width:40%;
+    display: inline-block;
+    padding:15px;
+}
+.frontimage{
+    height:400px;
+}
+
+#frontfont{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}

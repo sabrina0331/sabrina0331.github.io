@@ -1,0 +1,25 @@
+h2 {
+    color: rgb(238, 238, 240);
+}
+h1 {
+    font-style: oblique;
+    font-size: 68pt;
+    
+margin: 0;
+}
+header {
+     text-align: center;
+     
+}
+html{
+    background-image: url("ferriswheel.jpg");
+    
+}
+a {color: gold;
+}
+#topnamestuff {
+    /* display:inline-block; */
+}
+.whatever {
+    display: inline-block;
+}

@@ -1,0 +1,28 @@
+body{
+ width:100%;
+}
+#bodythis{
+ font-display: 300px;
+ color: cadetblue;
+ font-size: 50px;
+}
+header{
+    color: yellowgreen;
+    background-color:bisque;
+    text-align: center;
+}
+
+#div_top_hypers {
+    background-color:#eeeeee;
+    display:inline;      
+}
+#ul_top_hypers {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+img{
+    width:100%;
+
+}

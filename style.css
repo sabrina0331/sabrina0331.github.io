@@ -1,0 +1,12 @@
+html{
+    background-color: gray;
+}
+
+#greenAbout{
+    color: green; 
+    font-size: 40px;
+}
+
+.myClass{
+    color: lightskyblue;
+}

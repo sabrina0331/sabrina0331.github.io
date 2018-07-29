@@ -1,0 +1,43 @@
+#headchange{
+    color:pink;
+    font-display:500px;
+    
+}
+#firstlink{
+    color:peru;
+}
+header{
+    background-color:black;
+    text-align:center;
+}
+footer{
+    widows: 100px;
+    background-color:black;
+    display:block;
+    color:pink;
+    text-align:center;
+}
+.allDot{
+    color:red;
+}
+aside {
+    width: 40%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #29627e;
+}
+aside > p {
+    margin: .5rem;
+}
+nav{
+    margin: .3rem;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
